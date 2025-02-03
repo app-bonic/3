@@ -1,0 +1,17 @@
+# Firebase konfiguracijska datoteka
+kuruza.js
+
+# Node moduli (ako koristite npm)
+#node_modules/
+
+# Privremene datoteke editora
+#*.tmp
+#*.swp
+
+# Okruženjski fajlovi
+#.env
+#.env.local
+
+# OS specifične datoteke
+#.DS_Store
+#Thumbs.db
